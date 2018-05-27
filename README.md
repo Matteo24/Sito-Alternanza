@@ -38,7 +38,7 @@ Useful list to develop websites with frameworks, libraries, CMS, code editors an
 
   * [GitHub Desktop](https://desktop.github.com/)
  
-### **Framework or library for many languages**
+### **Framework or libraries for many languages**
 
 * Front-end
 
